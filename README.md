@@ -123,7 +123,7 @@ Este projeto está sob a licença **MIT**.
 
 ## 👩‍💻 Autora
 
-Desenvolvido por **Zenóbya** ✨
+Desenvolvido por **Camila Machado - Zenóbya** ✨
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zenobya-181717?style=flat&logo=github&logoColor=white)](https://github.com/Zenobya)
 [![DIO](https://img.shields.io/badge/DIO-Bootcamp-F97316?style=flat&logo=rocket&logoColor=white)](https://www.dio.me)
